@@ -10,7 +10,9 @@
 
 :movie_camera: Sunumun tamamını [buradan](https://www.youtube.com/watch?v=5kTNnXin6r8&feature=youtu.be) izleyebilirsiniz.
 
-:paperclip: Sunum dosyasına [buradan](https://github.com/yz-ai/waste-sorting-by-deep-learning/) erişebilirsiniz.
+:bar_chart: Sunum dosyasına [buradan](https://github.com/yz-ai/waste-sorting-by-deep-learning/) erişebilirsiniz.
+
+---
 
 **Makaleler**
 
