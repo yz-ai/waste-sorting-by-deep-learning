@@ -30,6 +30,10 @@ Bu çalışma *[M. Ayyüce Kızrak](http://www.ayyucekizrak.com/) T.C. CB Dijita
 
 ---
 
+Yapay zekaya dayalı akıllıca tasarlanmış bir atık yönetimi tesisi ile [Birleşmiş Milletler'in sürdürülebilir kalkınma hedeflerinin](https://ec.europa.eu/international-partnerships/sustainable-development-goals_en) gerçekleştirilmesine katkıda bulunarak sürdürülebilir şehirler tasarlamaya ihtiyaç vardır. Akıllı atık yönetimi, küresel ısınmayı durdurmak için en önemli araçlardan biri harcama ve enerji tasarrufudur. Bu sürdürülebilir bir ekonomi için büyük önem taşıyor. Daha sofistike yaklaşımlarla günlük hayatta kullanılacak atık tesisleri tasarlamak önemli hedefler arasında olmalıdır. Atık malzeme sınıflandırması için son teknoloji cihaz uygulamaları hakkında daha fazla araştırma yapılması gerekmektedir. İnsanlar, dünya çapında yapay zekayı kullanılarak elde edilebilecek faydaları ölçülebilir.
+
+---
+
 **Kaynaklar:**
 
 1.	Williams, P. T., Waste Treatment and Disposal, John Wiley & Sons, (2005).
