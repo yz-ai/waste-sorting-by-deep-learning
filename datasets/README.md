@@ -1,0 +1,1 @@
+# waste-sorting-by-deep-learning
