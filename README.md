@@ -44,7 +44,6 @@ Yapay zekaya dayalı akıllıca tasarlanmış bir atık yönetimi tesisi ile [Bi
 6.	Liu, C., Sharan, L., Adelson, E. H., and Rosenholtz, R., Exploring Features in a Bayesian Framework for Material Recognition, in Computer Vision and Pattern Recognition (CVPR), Conference on.IEEE, (2010), 239–246.
 7.	Yang, M., and Thung, G., Classification of Trash for Recyclability Status, arXiv preprint, (2016).
 8.	Thung, G., Trashnet, GitHub repository, (2016).
-9.	Bircanoğlu, C., Atay, M., Beşer, F., Genç, O., Kızrak, M. A., RecycleNet: Intelligent Waste Sorting Using Deep Neural Networks, IEEE International Conference on INnovations in Intelligent SysTems and Applications (INISTA), (2018).
-10.	Özkaya, U., and Seyfi, L., Fine-Tuning Models Comparisons on Garbage Classification for Recyclability, 2nd International Symposium on Innovative Approaches in Scientific Studies, (2019)
-11.	Seredkin, A. V., Tokarev, M. P., Plohih, A., Gobyzov, O. A., and Markovich, D. M., Development of a Method of Detection and Classification of Waste Objects on a Conveyor for a Robotic Sorting System, Journal of Physics: Conference Series, Vol. 1359, (2019).
-12.	Vo, A. H., Son, L., H., Vo, M. T., Le, T., A Novel Framework for Trash Classification Using Deep Transfer Learning, IEEE Access, Vol. 7, (2019).
+9.	Özkaya, U., and Seyfi, L., Fine-Tuning Models Comparisons on Garbage Classification for Recyclability, 2nd International Symposium on Innovative Approaches in Scientific Studies, (2019)
+10.	Seredkin, A. V., Tokarev, M. P., Plohih, A., Gobyzov, O. A., and Markovich, D. M., Development of a Method of Detection and Classification of Waste Objects on a Conveyor for a Robotic Sorting System, Journal of Physics: Conference Series, Vol. 1359, (2019).
+11.	Vo, A. H., Son, L., H., Vo, M. T., Le, T., A Novel Framework for Trash Classification Using Deep Transfer Learning, IEEE Access, Vol. 7, (2019).
