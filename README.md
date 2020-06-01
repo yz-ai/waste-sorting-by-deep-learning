@@ -1,4 +1,4 @@
-# Derin Öğrenme ile Geri Dönüştürülebilir Atıkların Sınıflandırılması
+# Derin Öğrenme ile Geri Dönüştürülebilir Atıkların Sınıflandırılması :recycle:
 
 ## Waste Sorting by Deep Learning
 
@@ -21,7 +21,7 @@
 
 ---
 
-**Makaleler**
+:bookmark_tabs: **Makaleler**
 
 [RecycleNet: Intelligent Waste Sorting Using Deep Neural Networks](https://ieeexplore.ieee.org/document/8466276)
 [Classification of Recyclable Materials Using Efficient Deep Learning Models and Benchmarking of GPU Performance](Kabul Edildi)
@@ -30,7 +30,7 @@ Bu çalışma *[M. Ayyüce Kızrak](http://www.ayyucekizrak.com/) T.C. CB Dijita
 
 ---
 
-Yapay zekaya dayalı akıllıca tasarlanmış bir atık yönetimi tesisi ile [Birleşmiş Milletler'in sürdürülebilir kalkınma hedeflerinin](https://ec.europa.eu/international-partnerships/sustainable-development-goals_en) gerçekleştirilmesine katkıda bulunarak sürdürülebilir şehirler tasarlamaya ihtiyaç vardır. Akıllı atık yönetimi, küresel ısınmayı durdurmak için en önemli araçlardan biri harcama ve enerji tasarrufudur. Bu sürdürülebilir bir ekonomi için büyük önem taşıyor. Daha sofistike yaklaşımlarla günlük hayatta kullanılacak atık tesisleri tasarlamak önemli hedefler arasında olmalıdır. Atık malzeme sınıflandırması için son teknoloji cihaz uygulamaları hakkında daha fazla araştırma yapılması gerekmektedir. İnsanlar, dünya çapında yapay zekayı kullanılarak elde edilebilecek faydaları ölçülebilir.
+:warning: Yapay zekaya dayalı akıllıca tasarlanmış bir atık yönetimi tesisi ile [Birleşmiş Milletler'in sürdürülebilir kalkınma hedeflerinin](https://ec.europa.eu/international-partnerships/sustainable-development-goals_en) gerçekleştirilmesine katkıda bulunarak sürdürülebilir şehirler tasarlamaya ihtiyaç vardır. Akıllı atık yönetimi, küresel ısınmayı durdurmak için en önemli araçlardan biri harcama ve enerji tasarrufudur. Bu sürdürülebilir bir ekonomi için büyük önem taşıyor. Daha sofistike yaklaşımlarla günlük hayatta kullanılacak atık tesisleri tasarlamak önemli hedefler arasında olmalıdır. Atık malzeme sınıflandırması için son teknoloji cihaz uygulamaları hakkında daha fazla araştırma yapılması gerekmektedir. İnsanlar, dünya çapında yapay zekayı kullanılarak elde edilebilecek faydaları ölçülebilir.
 
 ---
 
