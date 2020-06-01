@@ -4,6 +4,11 @@
 
 İklim değişikliği ve küresel ısınmanın sonuçlarından biri aşırı kaynak tüketiminden kaynaklanmaktadır. Küresel ısınmayı yavaşlatmak ve enerji tasarrufunu arttırmak için atık yönetimi çerçevesinde geri dönüşümün yaygın olarak uygulanması gerekmektedir. Atık yönetimi ve geri dönüşüm yalnızca çevresel açıdan avantajlı olmakla kalmaz, aynı zamanda sürdürülebilir bir ekonomi için de büyük önem taşır. İnsan çalışanlar yerine akıllı sistemleri tercih etmek, insanların refahı yüksek ortamlarında çalışmasını sağlamak sosyal açıdan önemli bir adımdır. Akıllı atık yönetimi yaklaşımları önemli bir araştırma alanıdır.
 
+📌[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/githubyz-ai/waste-sorting-by-deep-learning/blob/master/notebooks/waste-sorting-by-dl-training.ipynb) **Google Colab Not Defterinde Aç**
+
+
+---
+
 ### [PyIstanbul #111 Python Saati Online Etkinliği](https://www.meetup.com/tr-TR/python-istanbul/events/270976079/)
 
 :apple: Demo ve tüm detaylar için [tıklayınız](https://github.com/yz-ai/waste-sorting-by-deep-learning)
@@ -19,7 +24,7 @@
 [RecycleNet: Intelligent Waste Sorting Using Deep Neural Networks](https://ieeexplore.ieee.org/document/8466276)
 [Classification of Recyclable Materials Using Efficient Deep Learning Models and Benchmarking of GPU Performance](Kabul Edildi)
 
-Bu çalışma *[M. Ayyüce Kızrak](http://www.ayyucekizrak.com/) TC CB Dijital Dönüşüm Ofisi / Bahçeşehir Üniversitesi, [Yavuz Kömeçoğlu](http://blog.yavuzkomecoglu.com/) (Kodiks Bilişim)* tarafından gerçekleştirilmiştir.
+Bu çalışma *[M. Ayyüce Kızrak](http://www.ayyucekizrak.com/) T.C. CB Dijital Dönüşüm Ofisi / Bahçeşehir Üniversitesi, [Yavuz Kömeçoğlu](http://blog.yavuzkomecoglu.com/) (Kodiks Bilişim)* tarafından gerçekleştirilmiştir.
 
 ---
 
