@@ -24,6 +24,7 @@
 :bookmark_tabs: **Makaleler**
 
 [RecycleNet: Intelligent Waste Sorting Using Deep Neural Networks](https://ieeexplore.ieee.org/document/8466276)
+
 [Classification of Recyclable Materials Using Efficient Deep Learning Models and Benchmarking of GPU Performance](Kabul Edildi)
 
 Bu çalışma *[M. Ayyüce Kızrak](http://www.ayyucekizrak.com/) T.C. CB Dijital Dönüşüm Ofisi / Bahçeşehir Üniversitesi, [Yavuz Kömeçoğlu](http://blog.yavuzkomecoglu.com/) (Kodiks Bilişim)* tarafından gerçekleştirilmiştir.
