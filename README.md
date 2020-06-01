@@ -1,4 +1,4 @@
-# Derin Öğrenme ile Geri Dönüştürülebilir Atıkların Sınıflandırılması :recycle:
+# :recycle: Derin Öğrenme ile Geri Dönüştürülebilir Atıkların Sınıflandırılması :recycle:
 
 ## Waste Sorting by Deep Learning
 
