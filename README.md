@@ -4,8 +4,10 @@
 
 İklim değişikliği ve küresel ısınmanın sonuçlarından biri aşırı kaynak tüketiminden kaynaklanmaktadır. Küresel ısınmayı yavaşlatmak ve enerji tasarrufunu arttırmak için atık yönetimi çerçevesinde geri dönüşümün yaygın olarak uygulanması gerekmektedir. Atık yönetimi ve geri dönüşüm yalnızca çevresel açıdan avantajlı olmakla kalmaz, aynı zamanda sürdürülebilir bir ekonomi için de büyük önem taşır. İnsan çalışanlar yerine akıllı sistemleri tercih etmek, insanların refahı yüksek ortamlarında çalışmasını sağlamak sosyal açıdan önemli bir adımdır. Akıllı atık yönetimi yaklaşımları önemli bir araştırma alanıdır.
 
-📌[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yz-ai/waste-sorting-by-deep-learning/blob/master/notebooks/waste-sorting-by-dl-training.ipynb) **Google Colab Eğitim Not Defterinde Aç**
 
+---
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yz-ai/waste-sorting-by-deep-learning/blob/master/notebooks/waste-sorting-by-dl-training.ipynb) **Google Colab Eğitim Not Defterinde Aç**
 
 ---
 
