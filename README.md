@@ -4,9 +4,7 @@
 
 İklim değişikliği ve küresel ısınmanın sonuçlarından biri aşırı kaynak tüketiminden kaynaklanmaktadır. Küresel ısınmayı yavaşlatmak ve enerji tasarrufunu arttırmak için atık yönetimi çerçevesinde geri dönüşümün yaygın olarak uygulanması gerekmektedir. Atık yönetimi ve geri dönüşüm yalnızca çevresel açıdan avantajlı olmakla kalmaz, aynı zamanda sürdürülebilir bir ekonomi için de büyük önem taşır. İnsan çalışanlar yerine akıllı sistemleri tercih etmek, insanların refahı yüksek ortamlarında çalışmasını sağlamak sosyal açıdan önemli bir adımdır. Akıllı atık yönetimi yaklaşımları önemli bir araştırma alanıdır.
 
-### PyIstanbul  Açık Seminer 14. Gün: NLP 101: Doğal Dil İşlemeye Giriş
-
-14:00 - 15:50 - **NLP 101: Doğal Dil İşlemeye Giriş** - *[Başak Buluz](http://blog.basakbuluz.com/)(Gebze Teknik Üniversitesi), [Yavuz Kömeçoğlu](http://blog.yavuzkomecoglu.com/) (Kodiks Bilişim)*
+### [PyIstanbul #111 Python Saati Online Etkinliği](https://www.meetup.com/tr-TR/python-istanbul/events/270976079/)
 
 :apple: Demo ve tüm detaylar için [tıklayınız](https://github.com/yz-ai/waste-sorting-by-deep-learning)
 
@@ -21,6 +19,7 @@
 
 Bu çalışma *[M. Ayyüce Kızrak](http://www.ayyucekizrak.com/)(TC CB Dijital Dönüşüm Ofisi / Bahçeşehir Üniversitesi, [Yavuz Kömeçoğlu](http://blog.yavuzkomecoglu.com/) (Kodiks Bilişim)* tarafından gerçekleştirilmiştir.
 
+---
 
 **Kaynaklar:**
 
@@ -36,10 +35,3 @@ Bu çalışma *[M. Ayyüce Kızrak](http://www.ayyucekizrak.com/)(TC CB Dijital 
 10.	Özkaya, U., and Seyfi, L., Fine-Tuning Models Comparisons on Garbage Classification for Recyclability, 2nd International Symposium on Innovative Approaches in Scientific Studies, (2019)
 11.	Seredkin, A. V., Tokarev, M. P., Plohih, A., Gobyzov, O. A., and Markovich, D. M., Development of a Method of Detection and Classification of Waste Objects on a Conveyor for a Robotic Sorting System, Journal of Physics: Conference Series, Vol. 1359, (2019).
 12.	Vo, A. H., Son, L., H., Vo, M. T., Le, T., A Novel Framework for Trash Classification Using Deep Transfer Learning, IEEE Access, Vol. 7, (2019).
-
-
-
-
-
-
-
