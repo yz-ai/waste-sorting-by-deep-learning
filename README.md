@@ -27,7 +27,7 @@ Bu çalışma *[M. Ayyüce Kızrak](http://www.ayyucekizrak.com/) T.C. CB Dijita
 
 [Orijinal adresten](https://drive.google.com/drive/folders/0B3P9oO5A3RvSUW9qTG11Ul83TEE) `dataset-resized.zip` isimli veri kümesini indirip, `datasets/dataset-resized/` altına kopyalayınız.
 
-Veri kümesini indirdikten sonra eğitime hazır hale getirmek için, `scripts/split-train-test-val.py` veri kümesini ayırma scriptini aşağıdaki şekilde çalıştırarak <train/test/val> olarak ayrabilirsiniz.
+Veri kümesini indirdikten sonra eğitime hazır hale getirmek için, `scripts/split-train-test-val.py` veri kümesini ayırma scriptini aşağıdaki şekilde çalıştırarak `<train/test/val>` olarak ayrabilirsiniz.
 
 ```
 python3 split-train-test-val.py --testRatio 0.17 --valRatio 0.13 ../datasets/dataset-resized
