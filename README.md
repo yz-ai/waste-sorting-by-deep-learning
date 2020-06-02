@@ -13,7 +13,7 @@
 
 ### [PyIstanbul #111 Python Saati Online Etkinliği](https://www.meetup.com/tr-TR/python-istanbul/events/270976079/)
 
-:apple: Demo ve tüm detaylar için [tıklayınız](https://github.com/yz-ai/waste-sorting-by-deep-learning)
+:apple: Demo ve tüm detaylar için [tıklayınız](https://github.com/yz-ai/waste-sorting-by-deep-learning).
 
 :movie_camera: Sunumun tamamını [buradan](https://www.youtube.com/watch?v=5kTNnXin6r8&feature=youtu.be) izleyebilirsiniz.
 
