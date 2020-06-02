@@ -30,9 +30,9 @@ Bu çalışma *[M. Ayyüce Kızrak](http://www.ayyucekizrak.com/) T.C. CB Dijita
 
 ### Kullanım:
 
-[Orijinal adresten](https://drive.google.com/drive/folders/0B3P9oO5A3RvSUW9qTG11Ul83TEE) veri kümesini indirip, bu repodaki <datasets/dataset-resized> dosyası içine kopyalamak <dataset-resized.zip> kullanabilirsiniz.
+[Orijinal adresten](https://drive.google.com/drive/folders/0B3P9oO5A3RvSUW9qTG11Ul83TEE) veri kümesini indirip, bu repodaki `<datasets/dataset-resized>` dosyası içine kopyalamak `<dataset-resized.zip>` kullanabilirsiniz.
 
-Veri kümesini indirdikten sonra ilgili klasöre yükleme işlemeini (örneğin; <datasets/dataset-resized/cardboard> olacak şekilde) tamamladıktan sonra <scripts/split-train-test-val.py> çalıştırılarak <train/test/val> olarak ayrabilirsiniz.
+Veri kümesini indirdikten sonra ilgili klasöre yükleme işlemeini (örneğin; `<datasets/dataset-resized/cardboard>` olacak şekilde) tamamladıktan sonra `<scripts/split-train-test-val.py>` çalıştırılarak <train/test/val> olarak ayrabilirsiniz.
 
 + Test ratio: '0.17'.
 + Val ratio: '0.13'.
