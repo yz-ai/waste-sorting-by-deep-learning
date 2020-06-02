@@ -15,7 +15,7 @@
 
 :apple: Demo ve tüm detaylar için [tıklayınız](https://github.com/yz-ai/waste-sorting-by-deep-learning).
 
-:movie_camera: Sunumun tamamını [buradan](https://www.youtube.com/watch?v=5kTNnXin6r8&feature=youtu.be) izleyebilirsiniz.
+:movie_camera: Sunumun videosuna [buradan](https://www.youtube.com/watch?v=5kTNnXin6r8&feature=youtu.be) izleyebilirsiniz.
 
 :bar_chart: Sunum dosyasına [buradan](https://github.com/yz-ai/waste-sorting-by-deep-learning/) erişebilirsiniz.
 
