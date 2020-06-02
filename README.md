@@ -22,7 +22,7 @@
 Bu çalışma *[M. Ayyüce Kızrak](http://www.ayyucekizrak.com/) T.C. CB Dijital Dönüşüm Ofisi / Bahçeşehir Üniversitesi, [Yavuz Kömeçoğlu](http://blog.yavuzkomecoglu.com/) (Kodiks Bilişim)* tarafından gerçekleştirilmiştir.
 
 ---
-:octocat: ### Veri Kümesi
+:octocat: **Veri Kümesi**
 
 [TrashNet:](https://github.com/garythung/trashnet) Kod (yalnızca evrimsel sinir ağı için) ve kullandığımız veri kümesi ve [Mindy Yang](https://github.com/yangmindy4)'ın [Stanford Üniversitesi'nin CS 229: Makine Öğrenimi](http://cs229.stanford.edu/) dersi için dönem sonu projesi. 
 
