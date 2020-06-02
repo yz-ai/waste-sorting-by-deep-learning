@@ -49,9 +49,9 @@ trainIdx 1770
 
 :bookmark_tabs: **Makaleler**
 
-**[RecycleNet: Intelligent Waste Sorting Using Deep Neural Networks](https://ieeexplore.ieee.org/document/8466276)**
++ **[RecycleNet: Intelligent Waste Sorting Using Deep Neural Networks](https://ieeexplore.ieee.org/document/8466276)**
 
-**Classification of Recyclable Materials Using Efficient Deep Learning Models and Benchmarking of GPU Performance** (Kabul Edildi)
++ **Classification of Recyclable Materials Using Efficient Deep Learning Models and Benchmarking of GPU Performance** (Kabul Edildi)
 
 ---
 
