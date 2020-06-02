@@ -17,30 +17,30 @@
 Bu çalışma *[M. Ayyüce Kızrak](http://www.ayyucekizrak.com/) T.C. CB Dijital Dönüşüm Ofisi / Bahçeşehir Üniversitesi, [Yavuz Kömeçoğlu](http://blog.yavuzkomecoglu.com/) (Kodiks Bilişim)* tarafından gerçekleştirilmiştir.
 
 ---
-:octocat: **Veri Kümesi**
+### :octocat: Veri Kümesi
 
 [TrashNet:](https://github.com/garythung/trashnet) Kod (yalnızca evrimsel sinir ağı için) ve kullandığımız veri kümesi ve [Mindy Yang](https://github.com/yangmindy4)'ın [Stanford Üniversitesi'nin CS 229: Makine Öğrenimi](http://cs229.stanford.edu/) dersi için dönem sonu projesi. 
 
 ---
 
-### Kullanım:
+### Veri Kümesi Kullanımı:
 
-[Orijinal adresten](https://drive.google.com/drive/folders/0B3P9oO5A3RvSUW9qTG11Ul83TEE) veri kümesini indirip, bu repodaki `datasets/dataset-resized` dosyası içine kopyalamak `dataset-resized.zip` kullanabilirsiniz.
+[Orijinal adresten](https://drive.google.com/drive/folders/0B3P9oO5A3RvSUW9qTG11Ul83TEE) `dataset-resized.zip` isimli veri kümesini indirip, `datasets/dataset-resized/` altına kopyalayınız.
 
-Veri kümesini indirdikten sonra ilgili klasöre yükleme işlemeini (örneğin; `datasets/dataset-resized/cardboard` olacak şekilde) tamamladıktan sonra `scripts/split-train-test-val.py` çalıştırılarak <train/test/val> olarak ayrabilirsiniz.
+Veri kümesini indirdikten sonra eğitime hazır hale getirmek için, `scripts/split-train-test-val.py` veri kümesini ayırma scriptini aşağıdaki şekilde çalıştırarak <train/test/val> olarak ayrabilirsiniz.
 
-+ Test ratio: '0.17'.
-+ Val ratio: '0.13'.
-+ Number of Classes: '6'.
-allImgsM len 2527
-testIdx 429
-valIdx 328
-trainIdx 1770
-+ Training set size: '1770'.
-+ Test set size: '429'.
-+ Validation set size: '328'
+```
+python3 split-train-test-val.py --testRatio 0.17 --valRatio 0.13 ../datasets/dataset-resized
+```
+
+Veri kümesini bölme işlemi sonucunda train/test/val sayıları aşağıdaki gibidir.
+
+- Training set: 1770
+- Test set: 429
+- Validation set: 328
 
 ---
+### Online Çalışma Dosyaları:
 
 **Eğitim için Google Colab Not Defteri** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yz-ai/waste-sorting-by-deep-learning/blob/master/notebooks/waste-sorting-by-dl-training.ipynb) 
 
@@ -50,7 +50,7 @@ trainIdx 1770
 
 ---
 
-:bookmark_tabs: **Makaleler**
+### :bookmark_tabs: Makaleler:
 
 + **[RecycleNet: Intelligent Waste Sorting Using Deep Neural Networks](https://ieeexplore.ieee.org/document/8466276)**
 
@@ -62,7 +62,7 @@ trainIdx 1770
 
 ---
 
-**Kaynaklar:**
+### Kaynaklar:
 
 1.	Williams, P. T., *Waste Treatment and Disposal*, John Wiley & Sons, (2005).
 2.	Palmer, J. A., *Environmental Thinking in the Early Years: Understanding and Misunderstanding of Concepts Related to Waste Management*, Environmental Education Research, Vol. 1, no. 1, (1995), 35–45.
