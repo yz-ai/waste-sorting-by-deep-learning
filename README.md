@@ -7,7 +7,11 @@
 
 ---
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yz-ai/waste-sorting-by-deep-learning/blob/master/notebooks/waste-sorting-by-dl-training.ipynb) **Google Colab Eğitim Not Defterinde Aç**
+**Eğitim için Google Colab Not Defteri** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yz-ai/waste-sorting-by-deep-learning/blob/master/notebooks/waste-sorting-by-dl-training.ipynb) 
+
+**Kestirim için Google Colab Not Defteri** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yz-ai/waste-sorting-by-deep-learning/blob/master/notebooks/waste-sorting-by-dl-prediction.ipynb)
+
+**Açıklanabilirlik için Google Colab Not Defteri** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yz-ai/waste-sorting-by-deep-learning/blob/master/notebooks/waste-sorting-by-dl-prediction-activation-map.ipynb)
 
 ---
 
