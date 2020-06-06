@@ -10,7 +10,7 @@
 
 :apple: Demo ve tüm detaylar için [tıklayınız](https://github.com/yz-ai/waste-sorting-by-deep-learning).
 
-:movie_camera: Sunumun videosuna [buradan](https://www.youtube.com/watch?v=5kTNnXin6r8&feature=youtu.be) izleyebilirsiniz.
+:movie_camera: Sunumun videosuna [buradan](https://www.youtube.com/watch?v=5kTNnXin6r8&feature=youtu.be) izleyebilirsiniz. **Yakında eklenecek**
 
 Bu çalışma *[M. Ayyüce Kızrak](http://www.ayyucekizrak.com/) (T.C. CB Dijital Dönüşüm Ofisi / Bahçeşehir Üniversitesi), [Yavuz Kömeçoğlu](http://blog.yavuzkomecoglu.com/) (Kodiks Bilişim)* tarafından gerçekleştirilmiştir.
 
