@@ -23,7 +23,7 @@ Bu çalışma *[M. Ayyüce Kızrak](http://www.ayyucekizrak.com/) (T.C. CB Dijit
 
 ### Veri Kümesi Kullanımı:
 
-[Orijinal adresten](https://drive.google.com/drive/folders/0B3P9oO5A3RvSUW9qTG11Ul83TEE) `dataset-resized.zip` isimli veri kümesini indirip, `datasets/dataset-resized/` altına kopyalayınız.
+[Orijinal adresten](https://drive.google.com/drive/folders/0B3P9oO5A3RvSUW9qTG11Ul83TEE?resourcekey=0-F-D8v2tnSfByG6ll3t9JxA&usp=sharing) `dataset-resized.zip` isimli veri kümesini indirip, `datasets/dataset-resized/` altına kopyalayınız.
 
 Veri kümesini indirdikten sonra eğitime hazır hale getirmek için, `scripts/split-train-test-val.py` veri kümesini ayırma scriptini aşağıdaki şekilde çalıştırarak `<train/test/val>` olarak ayrabilirsiniz.
 
